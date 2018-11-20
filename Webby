@@ -1,0 +1,39 @@
+<!doctype html>
+<html>
+ <head>
+   <meta charset="utf-8">
+   <title> Information About Rabbits </title>
+   
+   <style> 
+   
+   body{
+   background color:"green";
+   font-family:"cursive", serif;
+   }
+   h1{
+   color:blue;
+   }
+   h2{
+   color:green;
+   }
+   
+   
+   </style>
+   
+   </head>
+   
+   <body>
+   <h1>Information About Cute Rabbits</h1>
+   <h2>Basic Information About Them</h2>
+   <p>Rabbits are small <em>Mammals</em>in the family <strong>Leporidae</strong>along with <em> Hare and Pika.</em>
+   Pet Rabbits are also called <strong>'Bunnies.'</strong>
+   Male Rabbits are called <em>'Bucks'</em> and the females are called <em>'Does'</em>
+   <img src="https://"upload.wikimedia.org/wikipedia/commons/thumb/3/37/Oryctolagus_cuniculus_Tasmania_2.jpg/160px-Oryctolagus_cuniculus_Tasmania_2.jpg">
+   You can learn more about them in <a href="https://www.wikipedia.org>Wikipedia</a>
+   
+   Thanks Friends For Reading This!
+   
+   
+   
+   
+</body>
